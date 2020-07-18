@@ -1,1 +1,2 @@
 # dumpster
+![trashimage](shadow.jpg)
