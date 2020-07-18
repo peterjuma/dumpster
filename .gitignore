@@ -4,3 +4,4 @@ createmultifiles.sh
 editfiles.sh
 getimages.sh
 triggerpush.sh
+triggercommit.sh
