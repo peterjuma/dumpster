@@ -3,5 +3,6 @@ commitmsg.py
 createmultifiles.sh
 editfiles.sh
 getimages.sh
-triggerpush.sh
-triggercommit.sh
+push.sh
+commit.sh
+bigassfile.sh
