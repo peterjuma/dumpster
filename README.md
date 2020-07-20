@@ -1,10 +1,3 @@
 # dumpster
 ![trashimage](shadow.jpg)
-![trashimage](shadow.jpg)
-![trashimage](bin.jpg)
-![trashimage](dump.jpg)
-![trashimage](trash.jpg)
-![trashimage](cat.jpg)
-![trashimage](mouse.jpg)
-![trashimage](moose.jpg)
-![trashimage](nairobi.jpg)
+Edited file README.md on 2020-07-20_11-42-32
