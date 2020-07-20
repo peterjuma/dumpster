@@ -1,3 +1,3 @@
-# dumpster
-![trashimage](cat.jpg)
-Edited file README.md on 2020-07-20_11-42-32
+# dumpster paradise
+![trashimage](shadow.jpg)
+
