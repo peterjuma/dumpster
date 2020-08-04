@@ -15,7 +15,9 @@
 > This is the second paragraph in the blockquote.
 >
 > ## This is an H2 in a blockquote
+
   <img src=mochajoe.jpg width=200/>
+
 ### Editing file on 2020-08-04_18-09-13
 
 > This is a blockquote.
@@ -27,6 +29,18 @@
 
 
 ### Editing file on 2020-08-04_18-10-57
+
+> This is a blockquote.
+> 
+> This is the second paragraph in the blockquote.
+>
+> ## This is an H2 in a blockquote
+
+  <img src=jabali.jpg width=200/>
+
+
+
+### Editing file on 2020-08-04_18-12-39
 
 > This is a blockquote.
 > 
