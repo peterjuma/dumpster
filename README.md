@@ -48,4 +48,5 @@
 >
 > ## This is an H2 in a blockquote
 
+  <img src=shadow.jpg width=200/>
 
