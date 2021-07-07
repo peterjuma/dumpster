@@ -2,4 +2,4 @@
 
 ![alt text](pretty.jpg)
 
-![alt text](images/png/skeleton-top.png)
+![alt text](/images/png/skeleton-top.png)
